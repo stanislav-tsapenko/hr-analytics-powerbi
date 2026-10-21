@@ -2,6 +2,8 @@
 
 A four-page Power BI dashboard built on a sample HR dataset. It shows employee engagement, satisfaction, work-life balance and termination trends across departments.
 
+![HR Analytics Dashboard](Dashboard.png)
+
 ## Pages
 
 - **HR Analytics Dashboard:** KPI cards (number of employees, average engagement, average satisfaction), engagement and satisfaction by department, work-life balance dynamics, performance score distribution.
